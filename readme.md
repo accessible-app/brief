@@ -2,7 +2,7 @@
 v1.0, December 01, 2018
 
 ## Introduction
-The goal is to build a Single Page Application in React, Vue, and Angular respectively. This SPA will have typical features and Accessible App's goal is to showcase how these features can be built in an accessible way.
+The goal is to build a Single Page Application in React, Vue, and Angular respectively. This SPA is called "Accessibooks" and will be a dummy e-commerce app. It will be having typical features for this kind of app and Accessible App's goal is to showcase how these features can be built in an accessible way.
 
 ## Requirements
 To do this it is necessary to research:
